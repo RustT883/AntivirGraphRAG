@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to your folder
-cd /path/to/your/folder
+cd /home/rust/Downloads/IBMC/NLP/abstracts
 
 # Initialize Git if needed
 if [ ! -d ".git" ]; then
